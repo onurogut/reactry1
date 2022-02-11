@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image":"https://ayb.akinoncdn.com/products/2020/10/16/53239/3559cdc4-5551-471c-803a-7ddebe1da86f_size780x780_quality60_cropCenter.jpg"
+        
+    },
+    {
+        "id": 2,
+        "title": "Kola",
+        "price": 10,
+        "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Kahve",
+        "price": 12.5,
+        "image":"https://img-watsons.mncdn.com/Content/Images/Thumbs/0313989_3u-1-arada-kahve-10-adet.png"
+    },
+    {
+        "id": 4,
+        "title": "Ayran",
+        "price": 24,
+        "image":"https://cdnd-tr.ceptesok.com/product/1000x1000/0cc06_Bardak_Ayran_285_Ml.jpg"
+    },
+    {
+        "id": 5,
+        "title": "iPhone 13 Pro Ultra Maxx",
+        "price": 32000,
+        "image":"https://digitalreport.com.tr/wp-content/uploads/2021/09/Katlanabilir-ekranli-iPhone-2024te-geliyor.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Klavye",
+        "price": 600,
+        "image":"https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_82255930/mobile_786_587_png/RAZER-Blackwidow-V3-T%C3%BCrk%C3%A7e-Q-Gaming-Klavye-Siyah"
+    }
+
+
+]
